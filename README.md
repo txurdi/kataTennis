@@ -11,14 +11,17 @@ Algoritmo para manejar la puntuacón tan especial de un partido de Tennis.
 [Kata en codingdojo.org](http://codingdojo.org/cgi-bin/wiki.pl?KataTennis)
 
 ## Planteamiento:
-- Jugador comienza con 0 puntos
-- 0 -15 - 30 -40 (secuencia de puntos)
-- Jugador con 40 puntos que vuelve a hacer puntos gana si el otro no tiene 40 puntos.
-- Si 2 jugadores tienen 40 puntos, se llama iguales
+- Primera Iteración:
+  - Jugador comienza con 0 puntos
+  - 0 -15 - 30 -40 (secuencia de puntos)
+  - Jugador con 40 puntos que vuelve a hacer puntos gana si el otro no tiene 40 puntos.
+  - Si 2 jugadores tienen 40 puntos, se llama iguales
 
-- Los jugadores deben poder ganar puntos
-- Juego termina con un ganador
-- Manejar casiustica iguales
+  - Los jugadores deben poder ganar puntos
+  - Juego termina con un ganador
+  - Manejar casiustica iguales
+-Segunda Iteración:
+  - Upside Down
 
 ## Conclusiones:
 - pendiente
