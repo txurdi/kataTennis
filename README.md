@@ -3,7 +3,7 @@ KataTennis
 6 de Octubre de 2012.
 
 ## ¿Qué es esto?
-Dentro del grupo "[katayuno.com](http://katayuno.com)" se ha organizado un evento el día 6 de Octubre en Bilbao.
+Dentro del grupo "[katayunos.com](http://www.katayunos.com)" se ha organizado un evento el día 6 de Octubre en Bilbao.
 
 ## Kata elegida: KataTennis
 Algoritmo para manejar la puntuacón tan especial de un partido de Tennis.
@@ -11,7 +11,14 @@ Algoritmo para manejar la puntuacón tan especial de un partido de Tennis.
 [Kata en codingdojo.org](http://codingdojo.org/cgi-bin/wiki.pl?KataTennis)
 
 ## Planteamiento:
-- pendiente
+- Jugador comienza con 0 puntos
+- 0 -15 - 30 -40 (secuencia de puntos)
+- Jugador con 40 puntos que vuelve a hacer puntos gana si el otro no tiene 40 puntos.
+- Si 2 jugadores tienen 40 puntos, se llama iguales
+
+- Los jugadores deben poder ganar puntos
+- Juego termina con un ganador
+- Manejar casiustica iguales
 
 ## Conclusiones:
 - pendiente
