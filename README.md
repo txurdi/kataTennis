@@ -7,7 +7,9 @@ Dentro del grupo "[katayunos.com](http://www.katayunos.com)" se ha organizado un
 
 ## Kata elegida: KataTennis
 Algoritmo para manejar la puntuacón tan especial de un partido de Tennis.
+
 [Kata en solveet.com](http://www.solveet.com/exercises/Kata-Tennis/13)
+
 [Kata en codingdojo.org](http://codingdojo.org/cgi-bin/wiki.pl?KataTennis)
 
 ## Planteamiento:
@@ -20,11 +22,19 @@ Algoritmo para manejar la puntuacón tan especial de un partido de Tennis.
   - Los jugadores deben poder ganar puntos
   - Juego termina con un ganador
   - Manejar casiustica iguales
--Segunda Iteración:
+
+- Segunda Iteración:
   - Upside Down
 
+- Tercera Iteración:
+  - Sin usar tipos simples como string, int etc... (esta iteración la hice en otro ordenador)
+
+- Cuarta Iteración:
+  - Como la primera pero intentando llegar hasta el final.
+
 ## Conclusiones:
-- pendiente
+- En el grupo se nos hizo mucho más fácil pensar down-up que up-down
+- Nos surgió la duda de si en los test hay que forzar la puntuación a cero al empezar o lo tomamos como requisito.
 
 ## Autores
 - Igor Ormaetxebarria [@txurdi](http://twitter.com/txurdi)
